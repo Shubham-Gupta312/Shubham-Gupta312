@@ -26,6 +26,6 @@
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-gupta312&show_icons=true&theme=gotham" alt="shubham-gupta312" /></p>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shubham-Gupta312&bg_color=none&color=0400ff&line=0400ff&point=292929&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shubham-Gupta312&bg_color=#fff&color=0400ff&line=0400ff&point=292929&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
 
