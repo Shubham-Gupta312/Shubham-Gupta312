@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shubham Gupta</h1>
-<h3>A passionate Full stack web developer, a Software Engineer and Tech Enthusiast from India.<br/> <br/>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. <br/><br/>I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
+<h3>A passionate full-stack web developer, a software engineer, and a tech enthusiast from India <br/> <br/>My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. <br/><br/>I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-gupta312&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-gupta312" /> </p>
 <br/>
