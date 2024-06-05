@@ -22,7 +22,3 @@
 <a href="https://codeigniter.com/user_guide/tutorial/index.html" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/tF2MRtGWj3qdsQd0qyiEzJeesa4vMyx6bIcevUv9se3SciV0EhfZc2zH5RBpmI3OUQ" alt="sass" width="40" height="40"/> </a>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-gupta312&theme=gotham" alt="shubham-gupta312" /></p>
-📈 **My Github Stats**
-<br/>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-gupta312&show_icons=true&theme=gotham" alt="shubham-gupta312" /></p>
